@@ -65,6 +65,9 @@ social:
 - icon: researchgate
   icon_pack: fab
   link: https://www.researchgate.net/profile/Adam_Stein8
+- icon: ai-orcid
+  icon_pack: ai
+  link: https://orcid.org/0000-0002-4043-7499
 #- icon: github
 #  icon_pack: fab
 #  link: https://github.com/energy-code
