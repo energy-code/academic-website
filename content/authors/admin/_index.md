@@ -34,7 +34,7 @@ education:
   courses:
   - course: PhD Candidate in Engineering and Public Policy
     institution: Carnegie Mellon University
-    year: 2020
+    year: 2021
   - course: MS in Engineering and Public Policy
     institution: Carnegie Mellon University
     year: 2019
