@@ -44,7 +44,7 @@ education:
   - course: BS in Mechanical Engineering
     institution: University of Pittsburgh
     year: 2009
-  - certificate: "Certificate in Nuclear Engineering"
+  - course: Certificate in Nuclear Engineering
     institution: University of Pittsburgh
     year: 2009  
 
