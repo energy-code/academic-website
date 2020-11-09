@@ -29,7 +29,7 @@ all_day: false
 event: Society for Risk Analysis Annual Meeting
 event_url: https://www.sra.org/events/annual-meeting/
 publishDate: 2020-11-09T16:44:37.510Z
-draft: true
+draft: false
 featured: false
 image:
   filename: featured
