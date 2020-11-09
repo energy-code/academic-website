@@ -66,10 +66,10 @@ subtitle = ""
   # Options include `left`, `center` (default), or `right`.
   #image_position: center
   # Use a fun parallax-like fixed background effect? true/false
-  image_parallax: true
+  #image_parallax: true
   
   # Text color (true=light or false=dark).
-  # text_color_light = true  
+   text_color_light = true  
   
 [advanced]
  # Custom CSS. 
