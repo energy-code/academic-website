@@ -16,8 +16,8 @@ publishDate: "2020-11-27T00:00:00Z"
 publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-publication: Making the Most of a Model: Interrogation Methods for Computer Codes
-publication_short: Interrogation Methods for Computer Codes
+publication: ""
+publication_short: ""
 
 abstract: Computer code models have become the default tool for analysis in many areas of research and industry. The research for evaluating these models has been primarily focused on theoretical simulation methods and overlooks the application of these methods. Many existing and highly valued computer codes and models do not allow for simulation, uncertainty quantification, or other modern computing capabilities. These computer codes are generally comprised of two categories: those with limited operation by design and older legacy codes. Updating these software codes is not an option in many situations due to time constraints, cost, loss of skills needed to upgrade aging programming languages, lack of access to source code, and other constraints. This paper compiles and evaluates methods to systematically interrogate computer codes, including reduced iteration design of experiments (DoE) methods. It was determined that while several of these methods are routinely used in other fields, they have not been applied to computer code models. This paper discusses the challenges present when evaluating computer codes and offers a decision framework for selecting interrogation methods. An example case study application of a definitive screening design (DSD) to aerosol transport modeling using the Atmospheric Relative Concentrations in Building Wakes (ARCON96) computer code is provided to illustrate the use of the decision framework and application of DoE fractional factorial designs to computer codes.
 
