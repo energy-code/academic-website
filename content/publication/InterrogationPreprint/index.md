@@ -31,9 +31,9 @@ tags:
 featured: true
 
 links:
-- name: engrXiv
-url: engrxiv.org/npqs2/
-url_pdf: engrxiv.org/npqs2/download
+#- name: engrXiv
+#url: engrxiv.org/npqs2/
+url_pdf: http://engrxiv.org/npqs2/download
 url_poster: '#'
 
 
