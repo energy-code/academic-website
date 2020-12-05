@@ -4,7 +4,6 @@ authors:
 - admin 
 - Ken Redus
 - Paul Fischbeck
-#- admin
 date: "2020-11-04T00:00:00Z"
 doi: "10.31224/osf.io/npqs2"
 
