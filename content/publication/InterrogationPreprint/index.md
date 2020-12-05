@@ -32,8 +32,8 @@ featured: true
 
 links:
 - name: Custom Link
-url: https://engrxiv.org/npqs2/
-url_pdf: https://engrxiv.org/npqs2/
+url: http://engrxiv.org/npqs2/
+url_pdf: http://engrxiv.org/npqs2/
 url_poster: '#'
 
 
