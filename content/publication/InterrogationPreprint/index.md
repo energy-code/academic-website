@@ -1,6 +1,6 @@
 ---
 title: "Making the Most of a Model: Interrogation Methods for Computer Codes"
-authors:Adam Stein, Kenneth Redus, Paul Fischbeck
+authors: Adam Stein, Kenneth Redus, Paul Fischbeck
 - admin
 date: "2020-11-04T00:00:00Z"
 doi: "10.31224/osf.io/npqs2"
@@ -24,20 +24,15 @@ abstract: Computer code models have become the default tool for analysis in many
 summary: This paper compiles and evaluates methods to systematically interrogate computer codes, discusses the challenges present when evaluating computer codes, and offers a decision framework for selecting interrogation methods. 
 
 tags:
-- Source Themes
+- Analysis, Experiment, 
 featured: true
 
 links:
 - name: Custom Link
-  url: https://engrxiv.org/npqs2/
+url: https://engrxiv.org/npqs2/
 url_pdf: https://engrxiv.org/npqs2/
-url_code: '#'
-url_dataset: '#'
 url_poster: '#'
-url_project: ''
-url_slides: ''
-url_source: '#'
-url_video: '#'
+
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
@@ -52,7 +47,7 @@ url_video: '#'
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
 #projects:
-#- internal-project
+- Analysis Methods
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
