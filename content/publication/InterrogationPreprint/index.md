@@ -25,7 +25,9 @@ abstract: Computer code models have become the default tool for analysis in many
 summary: This paper compiles and evaluates methods to systematically interrogate computer codes, discusses the challenges present when evaluating computer codes, and offers a decision framework for selecting interrogation methods. 
 
 tags:
-- Analysis, Experiment, 
+- Analysis 
+-Experiment
+
 featured: true
 
 links:
