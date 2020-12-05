@@ -31,9 +31,9 @@ tags:
 featured: true
 
 links:
-- name: Custom Link
+- name: ensrXiv
 url: http://engrxiv.org/npqs2/
-url_pdf: http://engrxiv.org/npqs2/
+url_pdf: https://engrxiv.org/npqs2/download
 url_poster: '#'
 
 
