@@ -35,7 +35,7 @@ links:
 #- name: engrXiv
 #url: engrxiv.org/npqs2/
 url_pdf: http://engrxiv.org/npqs2/download
-url_poster: '#'
+#url_poster: '#'
 
 
 # Featured image
