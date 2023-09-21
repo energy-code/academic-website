@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Adam Stein
+title: Adam Stein, PhD
 
 # Username (this should match the folder name)
 authors:
@@ -10,44 +10,43 @@ authors:
 superuser: true
 
 # Role/position
-role: PhD Candidate / Engineer / Consultant 
+role: Engineer / Researcher / Risk / Energy Technology and Policy 
 
 # Organizations/Affiliations
 organizations:
-- name: Carnegie Mellon University
+- name:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research includes energy systems, risk analyis, policy soultions, and deep uncertainty.
+bio: My research includes energy systems, risk analysis, policy solutions, and deep uncertainty.
 
 interests:
 ##Research interests 
-- Energy System Modeling
-- Risk Analysis
-- Advanced Nuclear Risk and Safety
+- Energy Systems
+- Risk
+- Regulatory design
+- Advanced Nuclear Energy
 - Decision Making Under Uncertainty 
-##Consulting
-- Product & Prototype Design
-- Mechatronics
-- Advanced manufacturing
+- Innovation
+- Multidisciplinary and complex systems 
 
-education:
-  courses:
-  - course: PhD Candidate in Engineering and Public Policy
-    institution: Carnegie Mellon University
-    year: 2021
-  - course: MS in Engineering and Public Policy
-    institution: Carnegie Mellon University
-    year: 2019
-  - course: MBA 
-    institution: Indiana University of Pennsylvania
-    year: 2016    
-  - course: BS in Mechanical Engineering
-    institution: University of Pittsburgh
-    year: 2009
-  - course: Certificate in Nuclear Engineering
-    institution: University of Pittsburgh
-    year: 2009  
+#education:
+#  courses:
+#  - course: PhD Candidate in Engineering and Public Policy
+#    institution: Carnegie Mellon University
+#    year: 2020
+#  - course: MS in Engineering and Public Policy
+#    institution: Carnegie Mellon University
+#    year: 2019
+#  - course: MBA 
+#    institution: Indiana University of Pennsylvania
+#    year: 2016    
+#  - course: BS in Mechanical Engineering
+#    institution: University of Pittsburgh
+#    year: 2009
+#  - course: Certificate in Nuclear Engineering
+#    institution: University of Pittsburgh
+#    year: 2009  
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -59,7 +58,7 @@ social:
 #  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/_A_Stein_
+  link: https://twitter.com/Dr_A_Stein
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=XRAXnRgAAAAJ
@@ -88,6 +87,8 @@ user_groups:
 - Visitors
 ---
 
-Adam Stein is a PhD Candidate in Engineering and Public Policy at Carnegie Mellon University. His current research interests include energy system design, emergency planning and decision making near nuclear power plants, and developing risk and consequence models for advanced reactors. He brings more than a decade of R&D experience to help address interdisciplinary problems. Outside of engineering and research, he is the VP of Campus Affairs and Partner & Family Advocate for the Graduate Student Assembly at Carnegie Mellon University and Assistant Band Director for a local school district. 
+I am the Director for Nuclear Energy Innovation at the Breakthrough Institute with a focus on research and policy related to the role of nuclear energy in reducing impacts on the environment and health. 
+I completed a doctorate in Engineering and Public Policy at Carnegie Mellon University where I researched decision-making under deep uncertainty and emergency response to nuclear power accidents. I also hold an MBA and degrees in mechanical and nuclear engineering. I have 20 years of R&D experience with interdisciplinary problems. 
+Outside of engineering and research, I am on the editorial board for Case Studies in the Environment, a member of multiple standards working groups, an assistant band director for a local school district, and an emergency first responder. 
 
 
