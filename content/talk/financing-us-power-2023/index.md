@@ -1,6 +1,6 @@
 ---
 title: Nuclear Energy Investment Outlook
-abstract: >- This panel discussion addresses key questions about investment in new nuclear energy. Will there be a nuclear revival in the US? Which reactor technologies are in play? What’s the potential timeline for demonstration and development? How do the economics look?
+abstract: This panel discussion addresses key questions about investment in new nuclear energy. Will there be a nuclear revival in the US? Which reactor technologies are in play? What’s the potential timeline for demonstration and development? How do the economics look?
 location: New York, New York
 date: 2023-10-30T19:00:00.068Z
 date_end: 2023-10-30T21:00:00.000Z
