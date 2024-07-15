@@ -6,6 +6,10 @@ title: Adam Stein, PhD
 authors:
 - admin
 
+# Full name (for SEO)
+first_name: Adam
+last_name: Stein
+
 # Is this the primary user of the site?
 superuser: true
 
@@ -30,8 +34,8 @@ interests:
 - Innovation
 - Multidisciplinary and complex systems 
 
-#education:
-#  courses:
+education:
+  courses:
   - course: PhD Candidate in Engineering and Public Policy
 #    institution: Carnegie Mellon University
 #    year: 2020
@@ -86,7 +90,7 @@ user_groups:
 - Researchers
 - Visitors
 ---
-
+##About Me
 I am currently the Director for Nuclear Energy Innovation at the Breakthrough Institute with a focus on research and policy related to the role of nuclear energy in reducing impacts on the environment and health. 
 I completed a doctorate in Engineering and Public Policy at Carnegie Mellon University where I researched decision-making under deep uncertainty and emergency response to nuclear power accidents. I also hold an MBA and degrees in mechanical and nuclear engineering. I have 20 years of R&D innovation experience with interdisciplinary problems. 
 Outside of engineering and research, I am on the editorial board for Case Studies in the Environment, a member of multiple standards working groups, an assistant band director for a local school district, and an emergency first responder. 
