@@ -40,7 +40,7 @@ featured: true
 
 links:
 #- name: engrXiv
-url: doi.org/10.2172/2371533
+url: https://doi.org/10.2172/2371533
 url_pdf: https://inldigitallibrary.inl.gov/sites/sti/sti/Sort_107010.pdf
 #url_poster: '#'
 
