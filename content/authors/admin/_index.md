@@ -26,12 +26,12 @@ bio: My research includes energy systems, innovation, risk analysis, policy solu
 
 interests:
 ##Research interests 
+- Innovation
 - Energy Systems
 - Risk
 - Regulatory design
 - Advanced Nuclear Energy
 - Decision Making Under Uncertainty 
-- Innovation
 - Multidisciplinary and complex systems 
 
 education:
@@ -48,7 +48,7 @@ education:
   - course: BS in Mechanical Engineering
 #    institution: University of Pittsburgh
 #    year: 2009
-  - course: Certificate in Nuclear Engineering
+  - course: Nuclear Engineering
 #    institution: University of Pittsburgh
 #    year: 2009  
 
@@ -91,8 +91,8 @@ user_groups:
 - Visitors
 ---
 
-I am currently the Director for Nuclear Energy Innovation at the Breakthrough Institute with a focus on research and policy related to the role of nuclear energy in reducing impacts on the environment and health. 
-I completed a doctorate in Engineering and Public Policy at Carnegie Mellon University where I researched decision-making under deep uncertainty and emergency response to nuclear power accidents. I also hold an MBA and degrees in mechanical and nuclear engineering. I have 20 years of R&D innovation experience with interdisciplinary problems. 
+I work on technological innovation, comprehensive decision-making, and policy to lead the transition to clean energy sources and reduce environmental and public health impacts. I am currently the Director for Nuclear Energy Innovation at the Breakthrough Institute, focusing on leading research and policy related to the role of nuclear energy. 
+I completed a doctorate in Engineering and Public Policy at Carnegie Mellon University, where I researched risk and decision-making under deep uncertainty. I also hold an MBA and degrees in mechanical and nuclear engineering. I have 20 years of R&D innovation experience with interdisciplinary real-world problems. 
 Outside of engineering and research, I am on the editorial board for Case Studies in the Environment, a member of multiple standards working groups, an assistant band director for a local school district, and an emergency first responder. 
 
 
