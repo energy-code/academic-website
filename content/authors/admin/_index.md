@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Engineer / Researcher / Risk / Energy Technology and Policy 
+role: Engineer / Researcher / Innovation / Risk / Energy Technology and Policy 
 
 # Organizations/Affiliations
 organizations:
@@ -18,7 +18,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research includes energy systems, risk analysis, policy solutions, and deep uncertainty.
+bio: My research includes energy systems, innovation, risk analysis, policy solutions, and deep uncertainty.
 
 interests:
 ##Research interests 
@@ -32,19 +32,19 @@ interests:
 
 #education:
 #  courses:
-#  - course: PhD Candidate in Engineering and Public Policy
+  - course: PhD Candidate in Engineering and Public Policy
 #    institution: Carnegie Mellon University
 #    year: 2020
-#  - course: MS in Engineering and Public Policy
+  - course: MS in Engineering and Public Policy 
 #    institution: Carnegie Mellon University
 #    year: 2019
-#  - course: MBA 
+  - course: MBA 
 #    institution: Indiana University of Pennsylvania
 #    year: 2016    
-#  - course: BS in Mechanical Engineering
+  - course: BS in Mechanical Engineering
 #    institution: University of Pittsburgh
 #    year: 2009
-#  - course: Certificate in Nuclear Engineering
+  - course: Certificate in Nuclear Engineering
 #    institution: University of Pittsburgh
 #    year: 2009  
 
